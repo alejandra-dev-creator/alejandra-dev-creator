@@ -80,28 +80,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alejandra-dev-creator&show_icons=true&theme=transparent&title_color=FF69B4&icon_color=C084FC&text_color=999"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandra-dev-creator&layout=compact&theme=transparent&title_color=FF69B4&text_color=999"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=alejandra-dev-creator&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
 # 🌸 Certifications
 
 💗 Machine Learning with Python — UNI  
