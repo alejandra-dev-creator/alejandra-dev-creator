@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=UX%2FUI+Designer+💗;Frontend+Developer+🌸;Creative+Tech+Girl+🎀;Building+beautiful+digital+experiences+💻" />
 </p>
 
----
+<br>
 
 ## 🌷 About Me
 
@@ -36,7 +36,7 @@
   </i>
 </p>
 
----
+<br>
 
 # 💻 Tech Stack
 
@@ -58,7 +58,7 @@
 
 </div>
 
----
+<br>
 
 # 📫 Connect With Me
 
@@ -78,7 +78,7 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -86,7 +86,7 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
