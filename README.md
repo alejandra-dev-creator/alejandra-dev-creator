@@ -131,11 +131,11 @@
 
 <div align="center">
 
-<a href="TU_LINKEDIN">
+<a href="https://linkedin.com/in/alejandra-trujillo-doria">
 <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="TU_INSTAGRAM">
+<a href="https://www.instagram.com/alejandra_kis?igsh=ZG5kMHR6M2x1c2l5">
 <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
