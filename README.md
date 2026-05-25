@@ -9,46 +9,32 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=UX%2FUI+Designer+💗;Frontend+Developer+🌸;Creative+Tech+Girl+🎀;Systems+Engineering+Student+✨;Building+beautiful+digital+experiences+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=UX%2FUI+Designer+💗;Frontend+Developer+🌸;Creative+Tech+Girl+🎀;Building+beautiful+digital+experiences+💻" />
 </p>
 
 ---
 
 ## 🌷 About Me
 
+<div align="center">
+
+╭ ───────── ✦ ───────── ╮
+
 💗 Systems Engineering Student from Peru  
-🎨 Passionate about UX/UI Design & Frontend Development  
-✨ Focused on creating aesthetic and interactive digital experiences  
-🌸 Currently learning Artificial Intelligence, Cybersecurity & Web Development  
-🎮 Unity 2D/3D Enthusiast  
-☕ Coffee + Music + Coding Lover  
+🎨 UX/UI Designer & Frontend Lover  
+✨ Creating aesthetic digital experiences  
+🌸 Learning AI, Cybersecurity & Web Development  
+☕ Coffee • Music • Creative Coding  
 
-🌸 I enjoy combining creativity and technology to build modern, functional and visually appealing projects.  
-💻 Interested in frontend development, UI design, interactive interfaces and innovative digital solutions.  
+╰ ───────── ✦ ───────── ╯
 
-💖 Me apasiona crear experiencias digitales modernas, funcionales y visualmente atractivas.  
-✨ Disfruto combinar creatividad y tecnología para construir proyectos interactivos.  
-🌸 Siempre estoy aprendiendo nuevas herramientas y mejorando mis habilidades en desarrollo y diseño.  
+</div>
 
----
-
-# 💼 Professional Experience
-
-## 🌸 Frontend & Web Development Intern — INAEM
-
-💗 Desarrollo y rediseño de sitios web en WordPress  
-✨ Creación de landing pages modernas y enfocadas en UX/UI  
-💻 Optimización de contenido y funcionalidades web  
-🎀 Mejora visual y estructural de experiencias digitales  
-
----
-
-## 💖 UX Design Intern — Grupo Consigue Ventas Inversiones E.I.R.L
-
-🌸 Diseño de interfaces centradas en el usuario  
-💗 Wireframes y prototipos en Figma  
-✨ Desarrollo visual y conceptual de la marca “Effetha”  
-🎨 Creación de experiencias digitales modernas y coherentes  
+<p align="center">
+  <i>
+  “Combining creativity and technology to build beautiful and interactive experiences ✨”
+  </i>
+</p>
 
 ---
 
@@ -70,59 +56,6 @@
 
 <img src="https://img.shields.io/badge/Excel-C6F6D5?style=for-the-badge&logo=microsoftexcel&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Unity-FFB6D9?style=for-the-badge&logo=unity&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Firebase-FFC8DD?style=for-the-badge&logo=firebase&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-FFD6FF?style=for-the-badge&logo=python&logoColor=black"/>
-
-</div>
-
----
-
-# 🌸 Certifications
-
-💗 Machine Learning with Python — UNI  
-💖 Data Analysis with Excel — UNI  
-🌸 SQL Database Fundamentals — UNI  
-✨ CyberSOC & Cybersecurity — UNI  
-💻 Cisco Networking Academy Certifications  
-🎀 Help Desk Assistant — UCV  
-📊 Business Transformation with BPM  
-
----
-
-# 🎮 Interests
-
-<div align="center">
-
-🌸 UX/UI Design  
-💻 Frontend Development  
-🎮 Unity 2D & 3D  
-📊 Data Analysis  
-🔐 Cybersecurity  
-🤖 Artificial Intelligence  
-
-</div>
-
----
-
-# ✨ Current Goals
-
-🌸 Build aesthetic and interactive web experiences  
-💗 Continue growing in UX/UI Design  
-✨ Improve my frontend development skills  
-💻 Learn more about AI & Cybersecurity  
-🎀 Create a strong and creative portfolio  
-
----
-
-# 🛠 Tools I Use
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,vscode,github,wordpress,windows"/>
-
 </div>
 
 ---
@@ -139,15 +72,13 @@
 <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="TU_PORTAFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=firefox&logoColor=white"/>
+<a href="https://github.com/alejandra-dev-creator">
+<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
-
-# 🌸 Visitor Count
 
 <div align="center">
 
