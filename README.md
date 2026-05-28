@@ -14,9 +14,9 @@
 
 <br>
 
-## 🌷 About Me
-
 <div align="center">
+
+## 🌷 About Me
 
 ╭ ───────── ✦ ───────── ╮
 
@@ -38,6 +38,14 @@
 
 <br>
 
+<div align="center">
+
+🌸 ✦ 💻 ✦ 🎀 ✦ 💗 ✦ 🌸
+
+</div>
+
+<br>
+
 # 💻 Tech Stack
 
 <div align="center">
@@ -55,6 +63,44 @@
 <img src="https://img.shields.io/badge/Power_BI-FFE599?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Excel-C6F6D5?style=for-the-badge&logo=microsoftexcel&logoColor=black"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+✨ 🌸 ✨ 🌸 ✨ 🌸 ✨
+
+</div>
+
+<br>
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alejandra-dev-creator&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandra-dev-creator&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+<br>
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=alejandra-dev-creator&theme=radical&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+🎀 ✦ 🌸 ✦ 💗 ✦ 🌸 ✦ 🎀
 
 </div>
 
