@@ -14,9 +14,9 @@
 
 <br>
 
-<div align="center">
-
 ## 🌷 About Me
+
+<div align="center">
 
 ╭ ───────── ✦ ───────── ╮
 
@@ -35,14 +35,6 @@
   “Combining creativity and technology to build beautiful and interactive experiences ✨”
   </i>
 </p>
-
-<br>
-
-<div align="center">
-
-🌸 ✦ 💻 ✦ 🎀 ✦ 💗 ✦ 🌸
-
-</div>
 
 <br>
 
@@ -68,25 +60,15 @@
 
 <br>
 
-<div align="center">
-
-✨ 🌸 ✨ 🌸 ✨ 🌸 ✨
-
-</div>
-
-<br>
-
-# 📊 GitHub Stats
+# 📈 Activity Graph
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alejandra-dev-creator&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandra-dev-creator&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandra-dev-creator&bg_color=0d1117&color=ff69b4&line=c084fc&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
-<br>
+---
 
 # 🔥 GitHub Streak
 
@@ -98,9 +80,14 @@
 
 <br>
 
+# 🎀 Current Focus
+
 <div align="center">
 
-🎀 ✦ 🌸 ✦ 💗 ✦ 🌸 ✦ 🎀
+✨ Building aesthetic and interactive web experiences  
+🎮 Developing my Unity horror game: <b>Souta: El Sendero Perdido</b>  
+🌸 Improving my UX/UI and frontend skills  
+💻 Exploring AI, Cybersecurity & Creative Development  
 
 </div>
 
@@ -129,6 +116,14 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=alejandra-dev-creator&label=Profile%20Views&color=ff69b4&style=flat"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+✨ 🌸 ✨ 🌸 ✨ 🌸 ✨
 
 </div>
 
